@@ -13,11 +13,11 @@ An intelligent port scanner using Python + Machine Learning to scan ports and **
 - 🛡️ Designed for ethical hacking & learning
 
 ---
-
-## 🔧 Usage
-
-```bash
 python scanner.py
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
+## 🔧 Usage
+
+```bash
+
